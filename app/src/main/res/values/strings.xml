@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Avatar</string>
+    <string name="ClickEn">Ingresar</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="avatar">AVATAR THE LAST AIRBENDER</string>
+    <string name="Nohay">No hay Conexion disponible</string>
+</resources>
